@@ -28,6 +28,6 @@ Rotate Matrix coding solution
 
 ## To run the test
 
-    ```sh
-    npm test
-    ```
+```sh
+npm test
+```
